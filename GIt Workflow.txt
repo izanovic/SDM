@@ -6,3 +6,5 @@ git add --all							//add all additions and deletions.
 git status							//check if what's about to be added is correct
 git commit -m "a commit message in the present tense"		//commit changes to branch
 git push origin my--brach					//pushed branch to master
+
+Test
