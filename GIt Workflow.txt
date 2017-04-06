@@ -1,0 +1,8 @@
+git branch 							//Lists branches
+git checkout <branchname> 					//move to given branch or master
+git pull origin master						//pull updates from master branch
+git status							//checks changes on branch
+git add --all							//add all additions and deletions.
+git status							//check if what's about to be added is correct
+git commit -m "a commit message in the present tense"		//commit changes to branch
+git push origin my--brach					//pushed branch to master
